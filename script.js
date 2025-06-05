@@ -94,17 +94,15 @@ function updateContent() {
     contentDisplay.innerHTML = '';
     
     if (page.type === 'video') {
-        const videoLink = document.createElement('a');
-        videoLink.href = page.video_url;
-        videoLink.className = 'video-link';
-        videoLink.textContent = 'Click to view video';
-        videoLink.target = '_blank';
-        contentDisplay.appendChild(videoLink);
-    } else if (page.type === 'multi_choice' || page.type === 'likert') {
+        const videoText = document.createElement('div');
+        videoText.className = 'video-link';
+        videoText.textContent = page.video_url;
+        contentDisplay.appendChild(videoText);
+    } else if (page.type === 'multi_choice' || page.type === 'multi_choice_with_sub' || page.type === 'likert') {
         page.question.forEach(q => {
             const questionDiv = document.createElement('div');
             questionDiv.className = 'question';
-            questionDiv.innerHTML = `<h3>${q.title || ''}</h3><p>${q.text}</p>`;
+            questionDiv.innerHTML = `<h3>${q.title || ''}</h3><p>${q.text.replace(/\n/g, '<br>')}</p>`;
             
             const answersDiv = document.createElement('div');
             answersDiv.className = 'answers';
@@ -114,7 +112,7 @@ function updateContent() {
                 answerDiv.className = 'answer';
                 
                 const input = document.createElement('input');
-                input.type = page.type === 'multi_choice' ? 'checkbox' : 'radio';
+                input.type = page.type === 'multi_choice' || page.type === 'multi_choice_with_sub' ? 'checkbox' : 'radio';
                 input.name = `question_${q.id}`;
                 input.value = answer.id;
                 
@@ -133,8 +131,15 @@ function updateContent() {
         page.question.forEach(q => {
             const infoDiv = document.createElement('div');
             infoDiv.className = 'info';
-            infoDiv.innerHTML = `<h3>${q.title || ''}</h3><p>${q.text}</p>`;
+            infoDiv.innerHTML = `<h3>${q.title || ''}</h3><p>${q.text.replace(/\n/g, '<br>')}</p>`;
             contentDisplay.appendChild(infoDiv);
+        });
+    } else if (page.type === 'title') {
+        page.question.forEach(q => {
+            const titleDiv = document.createElement('div');
+            titleDiv.className = 'info';
+            titleDiv.innerHTML = `<h3>${q.title || ''}</h3><p>${q.text.replace(/\n/g, '<br>')}</p>`;
+            contentDisplay.appendChild(titleDiv);
         });
     } else {
         const unknownDiv = document.createElement('div');

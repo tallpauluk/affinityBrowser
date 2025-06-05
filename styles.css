@@ -124,14 +124,14 @@ button:disabled {
 }
 
 .video-link {
-    color: #007bff;
+    color: #333;
     text-decoration: none;
     display: block;
     margin: 0.5rem 0;
 }
 
 .video-link:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .question {
@@ -147,6 +147,17 @@ button:disabled {
 
 .answer {
     margin: 0.5rem 0;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.answer input {
+    margin: 0;
+}
+
+.answer label {
+    cursor: pointer;
 }
 
 .unknown-type {
