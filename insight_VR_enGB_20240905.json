@@ -1,0 +1,2209 @@
+{
+  "dataId": "insight_VR_enGB_20240905.json",
+  "modules": [
+    {
+      "id": "0",
+      "module_title": "Module 0",
+      "playlist": [
+        {
+          "id": 1,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 1,
+              "title": "Consent to participate",
+              "text": "By clicking next, you agree you are consenting to these statements.\r\n\r\nI understand that this four module Virtual Reality Course deals with ‘Coercive and controlling behaviours’ in the context of Domestic Abuse.\r\n\r\nI agree that I am taking part in the course at my own risk and that I will remove the headset at any time, if I feel physically or emotionally uncomfortable and ask for support.",
+              "maxNumberOfSelections": 1,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 2,
+              "title": "GDPR compliance",
+              "text": "I understand that some of my responses will be held and stored confidentially and anonymously. This data will be held strictly in line with GDPR principles and only general trends will be shared with the supporting organisations.",
+              "maxNumberOfSelections": 1,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 3,
+              "title": "Medical and Safety Consent",
+              "text": "I confirm that I have read, understood and signed the Medical consent and Health and Safety form given to me previously, by my facilitator.",
+              "maxNumberOfSelections": 1,
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 4,
+              "text": "You will now see a short questionnaire which is to explore your existing knowledge of Coercive and controlling behaviours (abbreviated to CCB)",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 1005,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 5,
+              "question_code": "INS-Pre-01",
+              "title": "How confident are you that you could recognise the signs of CCB",
+              "text": "How confident are you that you could recognise the signs of CCB",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "answer_code": "INS-Pre-01-A",
+                  "text": "Not at all confident"
+                },
+                {
+                  "id": 2,
+                  "answer_code": "INS-Pre-01-B",
+                  "text": "Slightly confident"
+                },
+                {
+                  "id": 3,
+                  "answer_code": "INS-Pre-01-C",
+                  "text": "Somewhat confident"
+                },
+                {
+                  "id": 4,
+                  "answer_code": "INS-Pre-01-D",
+                  "text": "Fairly confident"
+                },
+                {
+                  "id": 5,
+                  "answer_code": "INS-Pre-01-E",
+                  "text": "Completely confident"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1006,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 6,
+              "question_code": "INS-Pre-02",
+              "title": "Would you be able to list at least 6 or more CCB, as outlined in the Home Office, Statutory Guidance on CCB?",
+              "text": "Would you be able to list at least 6 or more CCB, as outlined in the Home Office, Statutory Guidance on CCB?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Pre-02-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Pre-02-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Pre-02-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1007,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 7,
+              "question_code": "INS-Pre-03",
+              "text": "In your current role, do you think you know the right questions to ask, to know if you were dealing with a victim of CCB?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Pre-03-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Pre-03-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Pre-03-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1008,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 8,
+              "question_code": "INS-Pre-04",
+              "text": "How serious a problem do you think CCB is within the general population?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 9,
+                  "answer_code": "INS-Pre-04-A",
+                  "text": "Not serious at all"
+                },
+                {
+                  "id": 10,
+                  "answer_code": "INS-Pre-04-B",
+                  "text": "Slightly serious"
+                },
+                {
+                  "id": 11,
+                  "answer_code": "INS-Pre-04-C",
+                  "text": "Somewhat serious"
+                },
+                {
+                  "id": 12,
+                  "answer_code": "INS-Pre-04-D",
+                  "text": "Fairly serious"
+                },
+                {
+                  "id": 13,
+                  "answer_code": "INS-Pre-04-E",
+                  "text": "Extremely serious"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1009,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 9,
+              "question_code": "INS-Pre-05",
+              "text": "Do you feel more attention needs to be given to CCB training for professionals who deal with Victims and Survivors of CCB?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Pre-05-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Pre-05-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Pre-05-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1010,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 10,
+              "question_code": "INS-Pre-06",
+              "text": "Do you feel you fully understand the impact of CCB on a person’s overall mental health?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Pre-06-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Pre-06-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Pre-06-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1011,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 11,
+              "question_code": "INS-Pre-07",
+              "text": "Do you feel you know what it might be like to be in the shoes of a victim of CCB?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Pre-07-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Pre-07-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Pre-07-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1012,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1001,
+              "question_code": "INS-Pre-08",
+              "text": "What is the legal definition of Coercive Behaviour?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "answer_code": "INS-Pre-08-A",
+                  "text": "The means by which one person controls or dominates another, causing fear and intimidation."
+                },
+                {
+                  "id": 2,
+                  "answer_code": "INS-Pre-08-B",
+                  "text": "A one-off act of assault that is now prosecutable under the Domestic Abuse Act 2021."
+                },
+                {
+                  "id": 3,
+                  "answer_code": "INS-Pre-08-C",
+                  "text": "A pattern of acts of assault, threats, humiliation and intimidation or other abuse that is used to harm, punish, or frighten a victim."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1013,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 13,
+              "title": "Answer",
+              "text": "A pattern of acts of assault, threats, humiliation and intimidation or other abuse that is used to harm, punish, or frighten a victim.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 1014,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1003,
+              "question_code": "INS-Pre-09",
+              "text": "What is the legal definition of Controlling Behaviour?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "answer_code": "INS-Pre-09-A",
+                  "text": "A trait exhibited by perpetrators to make a person reliant upon and subordinate to them. It must involve periodic physical assault on more than one occasion and the victim must have felt limited in their day to day activities on four or more occasions."
+                },
+                {
+                  "id": 2,
+                  "answer_code": "INS-Pre-09-B",
+                  "text": "A range of acts designed to make a person subordinate and/or dependent by isolating them from sources of support, exploiting their resources and capacities for personal gain, depriving them of the means needed for independence, resistance and escape and regulating their everyday behaviour."
+                },
+                {
+                  "id": 3,
+                  "answer_code": "INS-Pre-09-C",
+                  "text": "Part of an intimate partner or family relationship dynamic that involves a range of behaviour designed to corrode an individual's sense of autonomy and self-worth."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1015,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 18,
+              "title": "Answer:",
+              "text": "Controlling Behaviour is legally defined as: A pattern of acts of assault, threats, humiliation and intimidation or other abuse that is used to harm, punish, or frighten a victim.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 1016,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 19,
+              "text": "The offence of Controlling and Coercive Behaviour: Section 68 of the Domestic Abuse Act 2021 amended Section 76 of the Serious Crime Act 2015",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 1017,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1005,
+              "question_code": "INS-Pre-10",
+              "text": "Select four answers \nThe offence of controlling or coercive behaviour states that:\nAn offence is committed by ‘A’ if: ",
+              "maxNumberOfSelections": 4,
+              "correctAnswer": "INS-Pre-10-A:INS-Pre-10-C:INS-Pre-10-E:INS-Pre-10-G",
+              "answers": [
+                {
+                  "id": 1,
+                  "answer_code": "INS-Pre-10-A",
+                  "text": "‘A’ repeatedly or continuously engages in behaviour towards another ‘B’, that is controlling or coercive."
+                },
+                {
+                  "id": 2,
+                  "answer_code": "INS-Pre-10-B",
+                  "text": "‘A’ and ‘B’ are living together and ‘A’ repeatedly or continuously engages in behaviour towards, ‘B’, that is controlling or coercive."
+                },
+                {
+                  "id": 3,
+                  "answer_code": "INS-Pre-10-C",
+                  "text": "At the time of the behaviour, ‘A’ and ‘B’ are personally connected."
+                },
+                {
+                  "id": 4,
+                  "answer_code": "INS-Pre-10-D",
+                  "text": "At the time of the behaviour, ‘A’ and ‘B’ are known to each other."
+                },
+                {
+                  "id": 5,
+                  "answer_code": "INS-Pre-10-E",
+                  "text": "The behaviour has a serious effect on ‘B’."
+                },
+                {
+                  "id": 6,
+                  "answer_code": "INS-Pre-10-F",
+                  "text": "The behaviour is non- physical but has a serious effect on ‘B’."
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Pre-10-G",
+                  "text": "‘A’ knows or ought to know that the behaviour will have a serious effect on ‘B’."
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Pre-10-H",
+                  "text": "‘A’ did not intend their behaviour to have an adverse effect on ‘B’, but it is proven to have had a serious effect."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1018,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 110,
+              "text": "Answer A,C,E and G are correct: \r\nA) An offence is committed by ‘A’ if: ‘A’ repeatedly or continuously engages in behaviour towards another ‘B’, that is controlling or coercive.\r\nC) At the time of the behaviour, ‘A’ and ‘B’ are personally connected.\r\nE) The behaviour has a serious effect on ‘B’.\r\nG) ‘A’ knows or ought to know that the behaviour will have a serious effect on ‘B’.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 1019,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 26,
+              "question_code": "INS-Pre-11",
+              "text": "Is CCB by definition non-physical?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Pre-11-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Pre-11-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Pre-11-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1020,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 27,
+              "title": "Answer:",
+              "text": "No - CCB can escalate to acts of physical violence.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 1021,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 28,
+              "question_code": "INS-Pre-12",
+              "text": "Can CCB be considered more harmful than physical violence?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Pre-12-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Pre-12-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Pre-12-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1022,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 29,
+              "title": "Answer:",
+              "text": "Yes- Studies have shown the effects to last longer and have more impact on wellbeing.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 1023,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 30,
+              "question_code": "INS-Pre-13",
+              "text": "The use of CCB by the perpetrator towards the victim prior to the homicide was reported in what percentage of cases?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 27,
+                  "answer_code": "INS-Pre-13-A",
+                  "text": "52.8%"
+                },
+                {
+                  "id": 28,
+                  "answer_code": "INS-Pre-13-B",
+                  "text": "71.3%"
+                },
+                {
+                  "id": 29,
+                  "answer_code": "INS-Pre-13-C",
+                  "text": "31.7%"
+                },
+                {
+                  "id": 30,
+                  "answer_code": "INS-Pre-13-D",
+                  "text": "93%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1024,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 31,
+              "title": "Answer:",
+              "text": "52.8%\r\n(Source: Domestic Homicide Reviews (2017-B019 relating to intimate partner homicide)",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 1025,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 32,
+              "question_code": "INS-Pre-14",
+              "text": "Which of the following are regarded as manifestations of Coercive or controlling behaviours? (Check all that are appropriate.)",
+              "maxNumberOfSelections": 6,
+              "correctAnswer": "INS-Pre-14-A:INS-Pre-14-B:INS-Pre-14-C:INS-Pre-14-D:INS-Pre-14-E:INS-Pre-14-F",
+              "answers": [
+                {
+                  "id": 31,
+                  "answer_code": "INS-Pre-14-A",
+                  "text": "Isolation"
+                },
+                {
+                  "id": 32,
+                  "answer_code": "INS-Pre-14-B",
+                  "text": "Micro regulation"
+                },
+                {
+                  "id": 33,
+                  "answer_code": "INS-Pre-14-C",
+                  "text": "Intimidation"
+                },
+                {
+                  "id": 34,
+                  "answer_code": "INS-Pre-14-D",
+                  "text": "Gaslighting, (denial of the other’s reality)"
+                },
+                {
+                  "id": 35,
+                  "answer_code": "INS-Pre-14-E",
+                  "text": "Love bombing (early intense romantic interest)"
+                },
+                {
+                  "id": 36,
+                  "answer_code": "INS-Pre-14-F",
+                  "text": "Stonewalling (ignoring for protracted periods)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1026,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 33,
+              "title": "Answer:",
+              "text": "All of these.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 1027,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 34,
+              "question_code": "INS-Pre-15",
+              "text": "Maximum Penalty for the Coercive and controlling behaviour offence is imprisonment of how many years:",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 37,
+                  "answer_code": "INS-Pre-15-A",
+                  "text": "1 year"
+                },
+                {
+                  "id": 38,
+                  "answer_code": "INS-Pre-15-B",
+                  "text": "3 years"
+                },
+                {
+                  "id": 39,
+                  "answer_code": "INS-Pre-15-C",
+                  "text": "5 years"
+                },
+                {
+                  "id": 40,
+                  "answer_code": "INS-Pre-15-D",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1028,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 35,
+              "title": "Answer:",
+              "text": "5 years",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 1029,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 36,
+              "question_code": "INS-Pre-16",
+              "text": "Are most victims of CCB women?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Pre-16-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Pre-16-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Pre-16-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1030,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 37,
+              "title": "Answer:",
+              "text": "Yes, According to latest Police and Home Office figures, the majority of reported cases are female and the majority of perpetrators are male.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 1031,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 38,
+              "question_code": "INS-Pre-17",
+              "text": "The number of coercive and controlling behaviour offences recorded in 2022 in England and Wales by the Office of National Statistics was:",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 41,
+                  "answer_code": "INS-Pre-17-A",
+                  "text": "70,218"
+                },
+                {
+                  "id": 42,
+                  "answer_code": "INS-Pre-17-B",
+                  "text": "41,626"
+                },
+                {
+                  "id": 43,
+                  "answer_code": "INS-Pre-17-C",
+                  "text": "33,954"
+                },
+                {
+                  "id": 44,
+                  "answer_code": "INS-Pre-17-D",
+                  "text": "18,856"
+                },
+                {
+                  "id": 45,
+                  "answer_code": "INS-Pre-17-E",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1032,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 39,
+              "title": "Answer",
+              "text": "41,626",
+              "answers": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "module_title": "Module 1",
+      "playlist": [
+        {
+          "id": 40,
+          "type": "video",
+          "video_url": "Insight_enGB_Intro_VR.mp4"
+        },
+        {
+          "id": 42,
+          "type": "video",
+          "video_url": "Insight_enGB_Text_Setup_VR.mp4"
+        },
+        {
+          "id": 43,
+          "type": "video",
+          "video_url": "Insight_enGB_Audio_Mont_Mod_1_VR.mp4"
+        },
+        {
+          "id": 44,
+          "type": "video",
+          "video_url": "Insight_enGB_Chantler_Text_Setup_VR.mp4"
+        },
+        {
+          "id": 45,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Chantler_091407_PT_2_VR.mp4"
+        },
+        {
+          "id": 46,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Chantler_092445_PT_5_VR.mp4"
+        },
+        {
+          "id": 47,
+          "type": "video",
+          "video_url": "Insight_enGB_Biderman_Text_Setup_VR.mp4"
+        },
+        {
+          "id": 48,
+          "type": "video",
+          "video_url": "affinity_enGB_M01_biderman_VR.mp4"
+        },
+        {
+          "id": 49,
+          "type": "video",
+          "video_url": "Insight_enGB_Clifford_Text_Setup_VR.mp4"
+        },
+        {
+          "id": 50,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_110007_VR.mp4"
+        },
+        {
+          "id": 51,
+          "type": "video",
+          "video_url": "Insight_enGB_Dwynwen_Pt_1_VR.mp4"
+        },
+        {
+          "id": 52,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_112851_PT_2_VR.mp4"
+        },
+        {
+          "id": 53,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_101203_PT_3_VR.mp4"
+        },
+        {
+          "id": 54,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 40,
+              "text": "Abuse lasts, on average, 25% longer in the most rural areas.\r\n\r\nThere are significant additional barriers in rural communities compared to urban areas. Societal structures, make escape less likely resulting in rural victims being half as likely to report.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 55,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 41,
+              "text": "Strong community spirit is one of the joys of rural life, but it can be equally powerful in keeping domestic abuse hidden.\r\n\r\nIt is almost impossible for a victim to seek help without it being known to others.\r\n\r\nSource: The National Rural Crime Network Report 2019- Domestic Abuse in Rural Areas",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 56,
+          "type": "video",
+          "video_url": "Insight_enGB_Dwynwen_Pt_2_VR.mp4"
+        },
+        {
+          "id": 57,
+          "type": "video",
+          "video_url": "Insight_enGB_Dwynwen_Pt_3_VR.mp4"
+        },
+        {
+          "id": 58,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 42,
+              "title": "Barriers to disclosure",
+              "text": "1) Shame, embarrassment or denial\r\n\r\nThe perpetrator often minimises their behaviour. Victims may be ashamed or make excuses to themselves and others to cover up the abuse.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 59,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 43,
+              "title": "Barriers to disclosure",
+              "text": "2) Trauma and low confidence\r\n\r\nVictims have very limited freedom to make decisions in an abusive relationship and they are often traumatised.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 60,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 44,
+              "title": "Barriers to disclosure",
+              "text": "3) Isolation\r\n\r\nPerpetrators will often try and reduce their victims’ contact with the outside world to prevent them from recognising their behaviour is abusive.\r\n\r\nSource :www.womensaid.org.uk",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 61,
+          "type": "video",
+          "video_url": "Insight_enGB_Dwynwen_Pt_4_VR.mp4"
+        },
+        {
+          "id": 62,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_112851_PT_1_VR.mp4"
+        },
+        {
+          "id": 63,
+          "type": "video",
+          "video_url": "Insight_enGB_Dwynwen_Pt_5_VR.mp4"
+        },
+        {
+          "id": 64,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 45,
+              "title": "Escalation",
+              "text": "An abuser may test out whether they can get away with crossing a line that has never been crossed before, with the intention of creating a new and deeper level of power and control, when they fear they are losing it.\r\n\r\nSource: National Domestic Abuse Hotline thehotline.org/resources/escalation/",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 65,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_105729_VR.mp4"
+        },
+        {
+          "id": 66,
+          "type": "video",
+          "video_url": "Insight_enGB_Dwynwen_Pt_6_VR.mp4"
+        },
+        {
+          "id": 67,
+          "type": "video",
+          "video_url": "Insight_enGB_Dwynwen_Pt_7_VR.mp4"
+        },
+        {
+          "id": 68,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Chantler_091407_PT_5_VR.mp4"
+        },
+        {
+          "id": 69,
+          "type": "video",
+          "video_url": "Insight_Interview_Survivor_enGB_Darrion_Title_VR.mp4"
+        },
+        {
+          "id": 70,
+          "type": "video",
+          "video_url": "Insight_Interview_Survivor_enGB_Darrion_102624_PT_3_VR.mp4"
+        },
+        {
+          "id": 71,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 46,
+              "text": "You have now completed module 1.\r\nPlease remove your headset for a short break and await further instruction from your facilitator.",
+              "answers": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "module_title": "Module 2",
+      "playlist": [
+        {
+          "id": 72,
+          "type": "title",
+          "question": [
+            {
+              "id": 47,
+              "title": "Module 2",
+              "text": "",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 73,
+          "type": "video",
+          "video_url": "Insight_enGB_Audio_Mont_Mod_2_VR.mp4"
+        },
+        {
+          "id": 74,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Chantler_091407_PT_3_VR.mp4"
+        },
+        {
+          "id": 75,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_102519_VR.mp4"
+        },
+        {
+          "id": 76,
+          "type": "video",
+          "video_url": "Insight_enGB_Stacy_Pt_1_VR.mp4"
+        },
+        {
+          "id": 77,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 48,
+              "text": "The CPS prosecution guidance on controlling and coercive behaviour and stalking or harassment has been updated and advises prosecutors about the different tactics a suspect can use, including ‘love-bombing’.\r\n\r\nSource CPS April 2021",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 78,
+          "type": "video",
+          "video_url": "Insight_enGB_Stacy_Pt_2_VR.mp4"
+        },
+        {
+          "id": 79,
+          "type": "video",
+          "video_url": "Insight_enGB_Cycle_Of_Abuse_Text_Setup_VR.mp4"
+        },
+        {
+          "id": 80,
+          "type": "video",
+          "video_url": "affinity_enGB_M02_cycleOfAbuse_VR.mp4"
+        },
+        {
+          "id": 81,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_103627_VR.mp4"
+        },
+        {
+          "id": 82,
+          "type": "video",
+          "video_url": "Insight_enGB_Stacy_Pt_3_VR.mp4"
+        },
+        {
+          "id": 83,
+          "type": "video",
+          "video_url": "Insight_enGB_Stacy_Pt_4_VR.mp4"
+        },
+        {
+          "id": 84,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 49,
+              "text": "Consent is defined in section 74 of the Sexual Offences Act 2003 as someone engaging in sexual activity if they agree by choice and they have the freedom and capacity to make that choice. (CPS)\r\nThinking point:\r\nConsider what impact CCB might have on the “freedom” to make certain choices.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 85,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_104939_VR.mp4"
+        },
+        {
+          "id": 86,
+          "type": "video",
+          "video_url": "Insight_enGB_Stacy_Pt_5_VR.mp4"
+        },
+        {
+          "id": 87,
+          "type": "video",
+          "video_url": "Insight_enGB_Stacy_Pt_6_VR.mp4"
+        },
+        {
+          "id": 88,
+          "type": "video",
+          "video_url": "Insight_enGB_Stacy_Pt_7_VR.mp4"
+        },
+        {
+          "id": 89,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 50,
+              "text": "Isolation is a pivotal tactic that controlling partners use in order to weaken their victims, prevent them from hearing others’ perspectives, and to bring them into line with their own beliefs and requirements.\r\n\r\nSource Speakoutloud.net - Coercive control",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 90,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_120847_PT_1_VR.mp4"
+        },
+        {
+          "id": 91,
+          "type": "video",
+          "video_url": "Insight_Interview_Survivor_enGB_Elin_Title_VR.mp4"
+        },
+        {
+          "id": 92,
+          "type": "video",
+          "video_url": "Insight_Interview_Survivor_enGB_Elin_093953_PT_1_VR.mp4"
+        },
+        {
+          "id": 93,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 51,
+              "text": "You have now finished module 2.\r\nPlease remove your headset for a short break and await further instruction from your facilitator.",
+              "answers": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "module_title": "Module 3",
+      "playlist": [
+        {
+          "id": 94,
+          "type": "title",
+          "question": [
+            {
+              "id": 52,
+              "title": "Module 3",
+              "text": "",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 95,
+          "type": "video",
+          "video_url": "Insight_enGB_Audio_Mont_Mod_3_VR.mp4"
+        },
+        {
+          "id": 96,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_112204_PT_1_VR.mp4"
+        },
+        {
+          "id": 97,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Chantler_091407_PT_6_VR.mp4"
+        },
+        {
+          "id": 98,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 53,
+              "text": "“I think the challenge for first responders is you are not asking them to take a statement about an event. So, if it’s an assault, or a criminal damage [case], there’s an event...",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 99,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 54,
+              "text": "..Whereas obviously with coercive control you are telling a narrative, a story – that’s always going to be much more difficult.”\r\n(Focus group police participant, ibid., p 505.)\r\nSource:Gov review of the Coercive and Controlling Behaviour Offence Home Office March 2021. P33",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 100,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_111440_VR.mp4"
+        },
+        {
+          "id": 101,
+          "type": "video",
+          "video_url": "Insight_enGB_David_Pt_1_VR.mp4"
+        },
+        {
+          "id": 102,
+          "type": "video",
+          "video_url": "Insight_enGB_David_Pt_2_VR.mp4"
+        },
+        {
+          "id": 103,
+          "type": "video",
+          "video_url": "Insight_enGB_David_Pt_3_VR.mp4"
+        },
+        {
+          "id": 104,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_112851_PT_4_VR.mp4"
+        },
+        {
+          "id": 105,
+          "type": "video",
+          "video_url": "Insight_enGB_David_Pt_4_VR.mp4"
+        },
+        {
+          "id": 106,
+          "type": "video",
+          "video_url": "Insight_enGB_David_Pt_5_VR.mp4"
+        },
+        {
+          "id": 107,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_111658_PT_1_VR.mp4"
+        },
+        {
+          "id": 108,
+          "type": "video",
+          "video_url": "Insight_enGB_David_Pt_6_VR.mp4"
+        },
+        {
+          "id": 109,
+          "type": "video",
+          "video_url": "Insight_enGB_David_Pt_7_VR.mp4"
+        },
+        {
+          "id": 110,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_112851_PT_3_VR.mp4"
+        },
+        {
+          "id": 111,
+          "type": "video",
+          "video_url": "Insight_enGB_David_Pt_8_VR.mp4"
+        },
+        {
+          "id": 112,
+          "type": "video",
+          "video_url": "Insight_enGB_David_Pt_9_VR.mp4"
+        },
+        {
+          "id": 113,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Chantler_092445_PT_6_VR.mp4"
+        },
+        {
+          "id": 114,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Chantler_092445_PT_2_VR.mp4"
+        },
+        {
+          "id": 115,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 55,
+              "text": "“Abuse is about gaining power and control over another person, regardless of who the person is, how a person looks or their gender or sexual identity”\r\nSource: Myths and Stereotypes About Partner Abuse Among Lesbian, Gay, Bisexual, and Transgender (LGBT+) People https://galop.org.uk/wp-content/uploads/2021/05/Myths.pdf",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 116,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 56,
+              "text": "You have now completed Module 3.\r\nPlease remove your headset for a short break and await further instruction from your facilitator.",
+              "answers": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "module_title": "Module 4",
+      "playlist": [
+        {
+          "id": 117,
+          "type": "title",
+          "question": [
+            {
+              "id": 57,
+              "title": "Module 4",
+              "text": "",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 118,
+          "type": "video",
+          "video_url": "Insight_enGB_Audio_Mont_Mod_4_VR.mp4"
+        },
+        {
+          "id": 119,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Chantler_094944_PT_3_VR.mp4"
+        },
+        {
+          "id": 120,
+          "type": "video",
+          "video_url": "Insight_enGB_Nia_Pt_1_VR.mp4"
+        },
+        {
+          "id": 121,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 58,
+              "text": "“Fear and confusion are central to our understanding of coercive control; it is living in a world of moving goal-posts, shifting sand; it is like constantly walking on eggshells. It is a world of everyday terror”\r\nSource: Pain, R (2012) Everyday Terrorism (University of Durham & Scottish Women’s Aid)",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 122,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Chantler_095757_PT_2_VR.mp4"
+        },
+        {
+          "id": 123,
+          "type": "video",
+          "video_url": "Insight_enGB_Nia_Pt_2_VR.mp4"
+        },
+        {
+          "id": 124,
+          "type": "video",
+          "video_url": "Insight_enGB_Nia_Pt_3_VR.mp4"
+        },
+        {
+          "id": 125,
+          "type": "video",
+          "video_url": "Insight_enGB_Nia_Pt_4_VR.mp4"
+        },
+        {
+          "id": 126,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_105342_PT_1_VR.mp4"
+        },
+        {
+          "id": 127,
+          "type": "video",
+          "video_url": "Insight_enGB_Nia_Pt_5_VR.mp4"
+        },
+        {
+          "id": 128,
+          "type": "video",
+          "video_url": "Insight_enGB_Nia_Pt_6_VR.mp4"
+        },
+        {
+          "id": 129,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_112204_PT_2_VR.mp4"
+        },
+        {
+          "id": 130,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 59,
+              "text": "“It appears likely that the number of CCB offences, prosecutions and convictions currently only capture a small fraction of CCB offending behaviour. Some of this may be due to a need to further raise understanding and awareness of CCB”\r\n( Source: P45 Gov review of the Coercive and Controlling Behaviour Offence ) Home Office March 2021",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 131,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 60,
+              "text": "“Broader professional education on the scope and ambit of coercive and controlling behaviour is likely...to generate greater alertness to abuse of this kind which too frequently lies buried or only superficially investigated.”\r\nHonourable Mr Justice Hayden (2021, EWFC. 4)",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 132,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_112622_VR.mp4"
+        },
+        {
+          "id": 133,
+          "type": "video",
+          "video_url": "Insight_Interview_Survivor_enGB_Erykah_Title_VR.mp4"
+        },
+        {
+          "id": 134,
+          "type": "video",
+          "video_url": "Insight_Interview_Survivor_enGB_Erykah_131835_PT_4_VR.mp4"
+        },
+        {
+          "id": 135,
+          "type": "video",
+          "video_url": "Insight_Interview_Survivor_enGB_Erykah_134200_PT_1_VR.mp4"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "module_title": "Module Post quiz",
+      "playlist": [
+        {
+          "id": 136,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 61,
+              "text": "You will now see a repeat of the first questionnaire. Please complete in the light of any new knowledge you have acquired as a result of these modules.\r\n(Coercive and controlling behaviours are abbreviated to CCB)",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 5005,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 5005,
+              "question_code": "INS-Post-01",
+              "title": "How confident are you that you could recognise the signs of CCB",
+              "text": "How confident are you that you could recognise the signs of CCB",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "answer_code": "INS-Post-01-A",
+                  "text": "Not at all confident"
+                },
+                {
+                  "id": 2,
+                  "answer_code": "INS-Post-01-B",
+                  "text": "Slightly confident"
+                },
+                {
+                  "id": 3,
+                  "answer_code": "INS-Post-01-C",
+                  "text": "Somewhat confident"
+                },
+                {
+                  "id": 4,
+                  "answer_code": "INS-Post-01-D",
+                  "text": "Fairly confident"
+                },
+                {
+                  "id": 5,
+                  "answer_code": "INS-Post-01-E",
+                  "text": "Completely confident"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 6,
+              "question_code": "INS-Post-02",
+              "title": "Would you be able to list at least 6 or more CCB, as outlined in the Home Office, Statutory Guidance on CCB?",
+              "text": "Would you be able to list at least 6 or more CCB, as outlined in the Home Office, Statutory Guidance on CCB?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Post-02-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Post-02-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Post-02-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "type": "multi_choice",
+          
+          "question": [
+            {
+              "id": 7,
+              "question_code": "INS-Post-03",
+              "text": "In your current role, do you think you know the right questions to ask, to know if you were dealing with a victim of CCB?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Post-03-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Post-03-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Post-03-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 8,
+              "question_code": "INS-Post-04",
+              "text": "How serious a problem do you think CCB is within the general population?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 9,
+                  "answer_code": "INS-Post-04-A",
+                  "text": "Not serious at all"
+                },
+                {
+                  "id": 10,
+                  "answer_code": "INS-Post-04-B",
+                  "text": "Slightly serious"
+                },
+                {
+                  "id": 11,
+                  "answer_code": "INS-Post-04-C",
+                  "text": "Somewhat serious"
+                },
+                {
+                  "id": 12,
+                  "answer_code": "INS-Post-04-D",
+                  "text": "Fairly serious"
+                },
+                {
+                  "id": 13,
+                  "answer_code": "INS-Post-04-E",
+                  "text": "Extremely serious"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 9,
+              "question_code": "INS-Post-05",
+              "text": "Do you feel more attention needs to be given to CCB training for professionals who deal with Victims and Survivors of CCB?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Post-05-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Post-05-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Post-05-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 10,
+              "question_code": "INS-Post-06",
+              "text": "Do you feel you fully understand the impact of CCB on a person’s overall mental health?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Post-06-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Post-06-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Post-06-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 11,
+              "question_code": "INS-Post-07",
+              "text": "Do you feel you know what it might be like to be in the shoes of a victim of CCB?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Post-07-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Post-07-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Post-07-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1001,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1001,
+              "question_code": "INS-Post-08",
+              "text": "What is the legal definition of Coercive Behaviour?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "answer_code": "INS-Post-08-A",
+                  "text": "The means by which one person controls or dominates another, causing fear and intimidation."
+                },
+                {
+                  "id": 2,
+                  "answer_code": "INS-Post-08-B",
+                  "text": "A one-off act of assault that is now prosecutable under the Domestic Abuse Act 2021."
+                },
+                {
+                  "id": 3,
+                  "answer_code": "INS-Post-08-C",
+                  "text": "A pattern of acts of assault, threats, humiliation and intimidation or other abuse that is used to harm, punish, or frighten a victim."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 13,
+              "title": "Answer",
+              "text": "A pattern of acts of assault, threats, humiliation and intimidation or other abuse that is used to harm, punish, or frighten a victim.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 1003,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1003,
+              "question_code": "INS-Post-09",
+              "text": "What is the legal definition of Controlling Behaviour?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "answer_code": "INS-Post-09-A",
+                  "text": "A trait exhibited by perpetrators to make a person reliant upon and subordinate to them. It must involve periodic physical assault on more than one occasion and the victim must have felt limited in their day to day activities on four or more occasions."
+                },
+                {
+                  "id": 2,
+                  "answer_code": "INS-Post-09-B",
+                  "text": "A range of acts designed to make a person subordinate and/or dependent by isolating them from sources of support, exploiting their resources and capacities for personal gain, depriving them of the means needed for independence, resistance and escape and regulating their everyday behaviour."
+                },
+                {
+                  "id": 3,
+                  "answer_code": "INS-Post-09-C",
+                  "text": "Part of an intimate partner or family relationship dynamic that involves a range of behaviour designed to corrode an individual's sense of autonomy and self-worth."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 18,
+              "title": "Answer:",
+              "text": "Controlling Behaviour is legally defined as: A pattern of acts of assault, threats, humiliation and intimidation or other abuse that is used to harm, punish, or frighten a victim.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 19,
+              "text": "The offence of Controlling and Coercive Behaviour: Section 68 of the Domestic Abuse Act 2021 amended Section 76 of the Serious Crime Act 2015",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 1005,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1005,
+              "question_code": "INS-Post-10",
+              "text": "Select four answers \nThe offence of controlling or coercive behaviour states that:\nAn offence is committed by ‘A’ if: ",
+              "maxNumberOfSelections": 4,
+              "correctAnswer": "INS-Post-10-A:INS-Post-10-C:INS-Post-10-E:INS-Post-10-G",
+              "answers": [
+                {
+                  "id": 1,
+                  "answer_code": "INS-Post-10-A",
+                  "text": "‘A’ repeatedly or continuously engages in behaviour towards another ‘B’, that is controlling or coercive."
+                },
+                {
+                  "id": 2,
+                  "answer_code": "INS-Post-10-B",
+                  "text": "‘A’ and ‘B’ are living together and ‘A’ repeatedly or continuously engages in behaviour towards, ‘B’, that is controlling or coercive."
+                },
+                {
+                  "id": 3,
+                  "answer_code": "INS-Post-10-C",
+                  "text": "At the time of the behaviour, ‘A’ and ‘B’ are personally connected."
+                },
+                {
+                  "id": 4,
+                  "answer_code": "INS-Post-10-D",
+                  "text": "At the time of the behaviour, ‘A’ and ‘B’ are known to each other."
+                },
+                {
+                  "id": 5,
+                  "answer_code": "INS-Post-10-E",
+                  "text": "The behaviour has a serious effect on ‘B’."
+                },
+                {
+                  "id": 6,
+                  "answer_code": "INS-Post-10-F",
+                  "text": "The behaviour is non- physical but has a serious effect on ‘B’."
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Post-10-G",
+                  "text": "‘A’ knows or ought to know that the behaviour will have a serious effect on ‘B’."
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Post-10-H",
+                  "text": "‘A’ did not intend their behaviour to have an adverse effect on ‘B’, but it is proven to have had a serious effect."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 218,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 110,
+              "text": "Answer A,C,E and G are correct: \r\nA) An offence is committed by ‘A’ if: ‘A’ repeatedly or continuously engages in behaviour towards another ‘B’, that is controlling or coercive.\r\nC) At the time of the behaviour, ‘A’ and ‘B’ are personally connected.\r\nE) The behaviour has a serious effect on ‘B’.\r\nG) ‘A’ knows or ought to know that the behaviour will have a serious effect on ‘B’.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 26,
+              "question_code": "INS-Post-11",
+              "text": "Is CCB by definition non-physical?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Post-11-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Post-11-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Post-11-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 27,
+              "title": "Answer:",
+              "text": "No - CCB can escalate to acts of physical violence.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 28,
+              "question_code": "INS-Post-12",
+              "text": "Can CCB be considered more harmful than physical violence?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Post-12-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Post-12-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Post-12-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 29,
+              "title": "Answer:",
+              "text": "Yes- Studies have shown the effects to last longer and have more impact on wellbeing.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 30,
+              "question_code": "INS-Post-13",
+              "text": "The use of CCB by the perpetrator towards the victim prior to the homicide was reported in what percentage of cases?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 27,
+                  "answer_code": "INS-Post-13-A",
+                  "text": "52.8%"
+                },
+                {
+                  "id": 28,
+                  "answer_code": "INS-Post-13-B",
+                  "text": "71.3%"
+                },
+                {
+                  "id": 29,
+                  "answer_code": "INS-Post-13-C",
+                  "text": "31.7%"
+                },
+                {
+                  "id": 30,
+                  "answer_code": "INS-Post-13-D",
+                  "text": "93%"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 31,
+              "title": "Answer:",
+              "text": "52.8%\r\n(Source: Domestic Homicide Reviews (2017-B019 relating to intimate partner homicide)",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 32,
+              "question_code": "INS-Post-14",
+              "text": "Which of the following are regarded as manifestations of Coercive or controlling behaviours? (Check all that are appropriate.)",
+              "maxNumberOfSelections": 6,
+              "correctAnswer": "INS-Post-14-A:INS-Post-14-B:INS-Post-14-C:INS-Post-14-D:INS-Post-14-E:INS-Post-14-F",
+              "answers": [
+                {
+                  "id": 31,
+                  "answer_code": "INS-Post-14-A",
+                  "text": "Isolation"
+                },
+                {
+                  "id": 32,
+                  "answer_code": "INS-Post-14-B",
+                  "text": "Micro regulation"
+                },
+                {
+                  "id": 33,
+                  "answer_code": "INS-Post-14-C",
+                  "text": "Intimidation"
+                },
+                {
+                  "id": 34,
+                  "answer_code": "INS-Post-14-D",
+                  "text": "Gaslighting, (denial of the other’s reality)"
+                },
+                {
+                  "id": 35,
+                  "answer_code": "INS-Post-14-E",
+                  "text": "Love bombing (early intense romantic interest)"
+                },
+                {
+                  "id": 36,
+                  "answer_code": "INS-Post-14-F",
+                  "text": "Stonewalling (ignoring for protracted periods)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 33,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 33,
+              "title": "Answer:",
+              "text": "All of these.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 34,
+              "question_code": "INS-Post-15",
+              "text": "Maximum Penalty for the Coercive and controlling behaviour offence is imprisonment of how many years:",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 37,
+                  "answer_code": "INS-Post-15-A",
+                  "text": "1 year"
+                },
+                {
+                  "id": 38,
+                  "answer_code": "INS-Post-15-B",
+                  "text": "3 years"
+                },
+                {
+                  "id": 39,
+                  "answer_code": "INS-Post-15-C",
+                  "text": "5 years"
+                },
+                {
+                  "id": 40,
+                  "answer_code": "INS-Post-15-D",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 35,
+              "title": "Answer:",
+              "text": "5 years",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 36,
+              "question_code": "INS-Post-16",
+              "text": "Are most victims of CCB women?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Post-16-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Post-16-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Post-16-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 37,
+              "title": "Answer:",
+              "text": "Yes, According to latest Police and Home Office figures, the majority of reported cases are female and the majority of perpetrators are male.",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 38,
+              "question_code": "INS-Post-17",
+              "text": "The number of coercive and controlling behaviour offences recorded in 2022 in England and Wales by the Office of National Statistics was:",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 41,
+                  "answer_code": "INS-Post-17-A",
+                  "text": "70,218"
+                },
+                {
+                  "id": 42,
+                  "answer_code": "INS-Post-17-B",
+                  "text": "41,626"
+                },
+                {
+                  "id": 43,
+                  "answer_code": "INS-Post-17-C",
+                  "text": "33,954"
+                },
+                {
+                  "id": 44,
+                  "answer_code": "INS-Post-17-D",
+                  "text": "18,856"
+                },
+                {
+                  "id": 45,
+                  "answer_code": "INS-Post-17-E",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 39,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 39,
+              "title": "Answer",
+              "text": "41,626",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 172,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 96,
+              "question_code": "INS-Post-18",
+              "text": "And finally...\r\nDo you think you now know more than you did previously about CCB?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Post-18-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Post-18-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Post-18-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 173,
+          "type": "multi_choice",
+          
+          "question": [
+            {
+              "id": 97,
+              "question_code": "INS-Post-19",
+              "text": "Would you recommend this VR package to other professionals?",
+              "answers": [
+                {
+                  "id": 6,
+                  "answer_code": "INS-Post-19-A",
+                  "text": "Yes"
+                },
+                {
+                  "id": 7,
+                  "answer_code": "INS-Post-19-B",
+                  "text": "No"
+                },
+                {
+                  "id": 8,
+                  "answer_code": "INS-Post-19-C",
+                  "text": "Unsure"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 174,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 98,
+              "text": "If you have experienced Coercive Control /Domestic Abuse and need support, please advise your facilitator or contact National Domestic Violence Helpline – 0808 2000 247 .",
+              "answers": []
+            }
+          ]
+        },
+        {
+          "id": 175,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 99,
+              "text": "Please remove your headset and wait for further instruction.",
+              "answers": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

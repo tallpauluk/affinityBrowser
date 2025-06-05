@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VR Course Content Viewer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="login-overlay" class="login-overlay">
+        <div class="login-container">
+            <h2>Login Required</h2>
+            <form id="login-form">
+                <input type="password" id="password" placeholder="Enter password" required>
+                <button type="submit">Login</button>
+            </form>
+        </div>
+    </div>
+    <div class="container" style="display: none;">
+        <div class="file-selector">
+            <label for="json-select">Select Content File:</label>
+            <select id="json-select">
+                <option value="insight_VR_enGB_20240905.json">Insight</option>
+                <option selected value="flourish_modules_1_4_enGB_v2.0.json">Flourish</option>
+            </select>
+        </div>
+        <div id="module-navigation" class="module-navigation"></div>
+        <div class="navigation">
+            <button id="prev-btn" disabled>Previous</button>
+            <span id="page-indicator">Page 1 of 1</span>
+            <button id="next-btn">Next</button>
+        </div>
+        <div class="content">
+            <div id="module-title"></div>
+            <div id="content-display"></div>
+        </div>
+        
+
+        
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 

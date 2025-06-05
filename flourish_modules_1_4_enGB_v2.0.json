@@ -1,0 +1,3196 @@
+{
+  "dataId": "flourish_modules_1_4_enGB_v2.0",
+  "modules": [
+    {
+      "id": 1,
+      "module_title": "Module 1",
+      "language": "enGB",
+      "playlist": [
+        {
+          "id": 101,
+          "type": "info_i",
+          "hasAcceptButton": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "Information",
+              "text": "I understand that this Course is about moving into a new life after leaving an abusive relationship and that some content could be triggering.\nIf I feel uncomfortable at any time, then I will remove my headset and ask for support.\nIf you feel that you are being disturbed by any material, then please press and hold the trigger button on your hand controller and this will take you to the next screen."
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "type": "info_i",
+          "hasAcceptButton": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "Data Protection",
+              "text": "I understand that some of my responses will be stored so MMP can see if the course has helped Survivors of Domestic Abuse.\nThis data will be held strictly in line with GDPR principles."
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "type": "info_i",
+          "hasAcceptButton": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "Health and Safety",
+              "text": "I confirm that I have understood read and signed the Health and Safety consent form given to me by my facilitator"
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "type": "info_i",
+          "hasAcceptButton": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "Health and Safety 2",
+              "text": "I agree that I am taking part in the course at my own risk but that I understand that I can exit the VR headset at any point."
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "type": "video",
+          "video_url": "affinity_enGB_M01_intro_VR.mp4"
+        },
+        {
+          "id": 106,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1,
+              "question_code": "FLO-M01-01",
+              "title": "Mega feelings Wall",
+              "text": "Please select four words that sum up how you are currently feeling about your situation.",
+              "maxNumberOfSelections": 6,
+              "answers": [
+                {
+                  "answer_code": "FLO-MO1-01-A",
+                  "id": 1,
+                  "text": "Anxious"
+                },
+                {
+                  "id": 2,
+                  "text": "Calm"
+                },
+                {
+                  "id": 3,
+                  "text": "Stressed"
+                },
+                {
+                  "id": 4,
+                  "text": "Relaxed"
+                },
+                {
+                  "id": 5,
+                  "text": "Depressed"
+                },
+                {
+                  "id": 6,
+                  "text": "Happy"
+                },
+                {
+                  "id": 7,
+                  "text": "Pessimistic"
+                },
+                {
+                  "id": 8,
+                  "text": "Hopeful"
+                },
+                {
+                  "id": 9,
+                  "text": "Powerless"
+                },
+                {
+                  "id": 10,
+                  "text": "Powerful"
+                },
+                {
+                  "id": 11,
+                  "text": "Weak"
+                },
+                {
+                  "id": 12,
+                  "text": "Strong"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1,
+              "title": "How old are you?",
+              "text": "How old are you?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "18-35"
+                },
+                {
+                  "id": 2,
+                  "text": "36-50"
+                },
+                {
+                  "id": 3,
+                  "text": "51-65"
+                },
+                {
+                  "id": 4,
+                  "text": "over 65"
+                },
+                {
+                  "id": 5,
+                  "text": "prefer not to say"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 108,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1,
+              "title": "To which gender identity do you most identify?",
+              "text": "To which gender identity do you most identify?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Female"
+                },
+                {
+                  "id": 2,
+                  "text": "Male"
+                },
+                {
+                  "id": 3,
+                  "text": "Transgender Female"
+                },
+                {
+                  "id": 4,
+                  "text": "Transgender Male"
+                },
+                {
+                  "id": 5,
+                  "text": "Non Binary"
+                },
+                {
+                  "id": 6,
+                  "text": "Not listed"
+                },
+                {
+                  "id": 7,
+                  "text": "Prefer not to say"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 109,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1,
+              "title": "What is your geographical location?",
+              "text": "What is your geographical location?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Greater Manchester"
+                },
+                {
+                  "id": 2,
+                  "text": "North Wales"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 110,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1,
+              "title": "Children",
+              "text": "Do you have children under the age of 18?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Yes"
+                },
+                {
+                  "id": 2,
+                  "text": "No"
+                },
+                {
+                  "id": 3,
+                  "text": "Prefer not to say"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 111,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1,
+              "title": "How long ago did you leave the abusive relationship?",
+              "text": "How long ago did you leave the abusive relationship?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Less than 6 months"
+                },
+                {
+                  "id": 2,
+                  "text": "6-12 months"
+                },
+                {
+                  "id": 3,
+                  "text": "13-18 months"
+                },
+                {
+                  "id": 4,
+                  "text": "19 months to 3 years"
+                },
+                {
+                  "id": 5,
+                  "text": "3 years and over"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 112,
+          "type": "likert",
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "On a scale of 1-5 how well do you feel you have recovered from what happened to you?\n1 being I am not coping at all right now to 5 being I feel I have recovered well now.",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "1"
+                },
+                {
+                  "id": 2,
+                  "text": "2"
+                },
+                {
+                  "id": 3,
+                  "text": "3"
+                },
+                {
+                  "id": 4,
+                  "text": "4"
+                },
+                {
+                  "id": 5,
+                  "text": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 113,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 1/12\n\nI’m generally OK most of the time",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 114,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 2/12\n\nI don’t understand why I got into an abusive relationship",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 115,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 3/12\n\nI feel confident about asking for help from family and friends",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 116,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 4/12\n\nI’m frightened of getting into another abusive relationship",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 117,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 5/12\n\nI feel really stuck with how to get on with my life",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 118,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 6/12\n\nI feel I don’t know who I am anymore.",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 119,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 7/12\n\nI feel I can have choices about how to live my life",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 120,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 8/12\n\nI know what to do when I am down to help me cope better",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 121,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 9/12\n\nI can see a better future",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 122,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 10/12\n\nI know what a healthy relationship looks like",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 123,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 11/12\n\nI am confident that I can spot the signs of an unhealthy relationship in the future",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 124,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 12/12\n\nI know I have worth",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 125,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 1/5\n\nI am anxious about the course",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 126,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 2/5\n\nI’m looking forward to completing the course",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 127,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 3/5\n\nI think the course will make a difference to me",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 128,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 4/5\n\nI think the course may make me be able to cope with my situation better",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 129,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 5/5\n\nI'm really dreading this VR experience",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 130,
+          "type": "video",
+          "video_url": "affinity_enGB_M01_biderman_intro_VR.mp4"
+        },
+        {
+          "id": 131,
+          "type": "video",
+          "video_url": "affinity_enGB_M01_biderman_VR.mp4",
+          "showTriggerWarning": false
+        },
+        {
+          "id": 132,
+          "type": "video",
+          "video_url": "affinity_enGB_M01_redFlag_intro_VR.mp4"
+        },
+        {
+          "id": 133,
+          "type": "video",
+          "video_url": "insight_enGB_Biderman_Red_Flag_Setup_VR.mp4"
+        },
+        {
+          "id": 134,
+          "type": "video_section_interactive",
+          "video_url": "affinity_enGB_M01_redFlag_VR.mp4",
+          "videoSections": [
+            {
+              "id": "1",
+              "flagColour": "red",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 690,
+              "endFrame": 750
+            },
+            {
+              "id": "2",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 1170,
+              "endFrame": 1230
+            },
+            {
+              "id": "3",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 1620,
+              "endFrame": 1680
+            },
+            {
+              "id": "4",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 1830,
+              "endFrame": 1890
+            },
+            {
+              "id": "5",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 2070,
+              "endFrame": 2130
+            },
+            {
+              "id": "6",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 2220,
+              "endFrame": 2490
+            },
+            {
+              "id": "7",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 2910,
+              "endFrame": 3030
+            },
+            {
+              "id": "8",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 3480,
+              "endFrame": 3600
+            },
+            {
+              "id": "9",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 3930,
+              "endFrame": 4200
+            },
+            {
+              "id": "10",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 4410,
+              "endFrame": 4530
+            },
+            {
+              "id": "11",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 4650,
+              "endFrame": 4830
+            },
+            {
+              "id": "12",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 5220,
+              "endFrame": 4830
+            },
+            {
+              "id": "13",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 5340,
+              "endFrame": 5400
+            }
+          ]
+        },
+         {
+          "id": 135,
+          "type": "video",
+          "video_url": "insight_enGB_Repeat_Red_Green_Flag_Setup_VR.mp4"
+        },
+        {
+          "id": 136,
+          "type": "video_section_display",
+          "video_url": "affinity_enGB_M01_redFlag_VR.mp4",
+          "videoSections": [
+            {
+              "id": "1",
+              "flagColour": "red",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 690,
+              "endFrame": 750
+            },
+            {
+              "id": "2",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 1170,
+              "endFrame": 1230
+            },
+            {
+              "id": "3",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 1620,
+              "endFrame": 1680
+            },
+            {
+              "id": "4",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 1830,
+              "endFrame": 1890
+            },
+            {
+              "id": "5",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 2070,
+              "endFrame": 2130
+            },
+            {
+              "id": "6",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 2220,
+              "endFrame": 2490
+            },
+            {
+              "id": "7",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 2910,
+              "endFrame": 3030
+            },
+            {
+              "id": "8",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 3480,
+              "endFrame": 3600
+            },
+            {
+              "id": "9",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 3690,
+              "endFrame": 3750
+            },
+            {
+              "id": "10",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 3810,
+              "endFrame": 3900
+            },
+            {
+              "id": "11",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 3960,
+              "endFrame": 4260
+            },
+            {
+              "id": "12",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 4410,
+              "endFrame": 4530
+            },
+            {
+              "id": "13",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 4650,
+              "endFrame": 4830
+            },
+            {
+              "id": "14",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 5220,
+              "endFrame": 4830
+            },
+            {
+              "id": "15",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 5340,
+              "endFrame": 5400
+            }
+          ]
+        },
+        {
+          "id": 137,
+          "type": "multi_choice_with_sub",
+          "question": [
+            {
+              "id": 1,
+              "title": "Good job\nIt's difficult stuff so a relaxation session is coming up next.\n\nIn the meantime how are you feeling?",
+              "text": "There is a break coming up soon, but if you could do with a break now, please take off the headset and seek support",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I'm good"
+                },
+                {
+                  "id": 2,
+                  "text": "I'm OK"
+                },
+                {
+                  "id": 3,
+                  "text": "I could do with a break"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 138,
+          "type": "video",
+          "video_url": "affinity_enGB_M01_mountainMeditation_VR.mp4"
+        },
+        {
+          "id": 139,
+          "type": "video",
+          "video_url": "affinity_enGB_M01_dwynwen_intro_VR.mp4"
+        },
+        {
+          "id": 140,
+          "type": "video",
+          "video_url": "affinity_enGB_M01_dwynwen_monologue_VR.mp4",
+          "showTriggerWarning": false
+        },
+        {
+          "id": 141,
+          "type": "video",
+          "video_url": "Insight_Interview_enGB_Dr_Clifford_125225_VR.mp4"
+        },
+        {
+          "id": 142,
+          "type": "video_choice",
+          "video_url": "",
+          "question": [
+            {
+              "id": 1,
+              "title": "Ask Doctor Clifford",
+              "text": "Dr Clifford is a Trauma Specialist, we have asked her to answer the four questions below- please click on any question that you want to and you will see a video answer",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "What is gaslighting?",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_101203_PT_2_VR.mp4"
+                },
+                {
+                  "id": 2,
+                  "text": "Does coercive control have an effect on children?",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_111658_PT_2_VR.mp4"
+                },
+                {
+                  "id": 3,
+                  "text": "What does micromanaging look like?",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_101203_PT_3_VR.mp4"
+                },
+                {
+                  "id": 4,
+                  "text": "Find out more about “walking on eggshells”",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_104508_PT_2_VR.mp4"
+                },
+                {
+                  "id": 5,
+                  "text": "Why is Coercive Control sometimes hard to recognise?",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_105342_PT_1_VR.mp4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 143,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Please take off your headset for a short break and complete the paper exercise that will be given to you."
+            }
+          ]
+        },
+        {
+          "id": 144,
+          "type": "video",
+          "video_url": "affinity_enGB_M01_inspiration_intro_VR.mp4"
+        },
+        {
+          "id": 145,
+          "type": "video",
+          "video_url": "affinity_enGB_M01_survivor_VR.mp4"
+        },
+        {
+          "id": 146,
+          "type": "video",
+          "video_url": "affinity_enGB_M01_coffeeWithRachel_VR.mp4"
+        },
+        {
+          "id": 147,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "On the next screen click and drag on the stones representing the values you want to bring with you into this next phase of your life. You can select up to six"
+            }
+          ]
+        },
+        {
+          "id": 148,
+          "type": "riverCrossing",
+          "question": [
+            {
+              "id": 1
+            }
+          ]
+        },
+        {
+          "id": 149,
+          "type": "learningCommitments",
+          "question": [
+            {
+              "id": 1,
+              "title": "These are some prompts to help you remember and activate these values",
+              "text": "These are some prompts to help you remember and activate these values, please highlight the ones that are useful to you",
+              "maxNumberOfSelections": 4,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I can diary or journal about my three top values"
+                },
+                {
+                  "id": 2,
+                  "text": "I can put them on stickies around my house"
+                },
+                {
+                  "id": 3,
+                  "text": "I can tell a friend and ask them to remind me about them"
+                },
+                {
+                  "id": 4,
+                  "text": "I can think of one thing I can do everyday to put a value into practice"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 150,
+          "type": "multi_choice_with_sub",
+          "question": [
+            {
+              "id": 1,
+              "title": "Now the module is over, how are you feeling?",
+              "text": "The module will be finishing in about four minutes but if you need to take a break, please remove the headset and ask for support if needed.",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I’m good"
+                },
+                {
+                  "id": 2,
+                  "text": "I’m OK"
+                },
+                {
+                  "id": 3,
+                  "text": "I need a break"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 151,
+          "type": "video",
+          "video_url": "affinity_enGB_M01_treatTime_flamenco_VR.mp4"
+        },
+        {
+          "id": 152,
+          "type": "video",
+          "video_url": "affinity_enGB_M01_outro_VR.mp4"
+        },
+        {
+          "id": 153,
+          "type": "title",
+          "hasFinishButton": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "Congratulations",
+              "text": "You have completed module one\nPlease remove your headset and ask your facilitator for further instruction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "module_title": "Module 2",
+      "language": "enGB",
+      "playlist": [
+        {
+          "id": 201,
+          "type": "video",
+          "video_url": "affinity_enGB_M02_intro_VR.mp4"
+        },
+        {
+          "id": 202,
+          "type": "video",
+          "video_url": "affinity_enGB_M02_cycleOfAbuse_VR.mp4",
+          "showTriggerWarning": false
+        },
+        {
+          "id": 203,
+          "type": "video",
+          "video_url": "affinity_enGB_M02_reframingIntro_VR.mp4"
+        },
+        {
+          "id": 204,
+          "type": "reframing",
+          "title": "If you recognise any of these,\nflip the card to see what you can do..",
+          "question": [
+            {
+              "id": 1,
+              "text": "I spend a lot of time going over what happened and wishing I could change it",
+              "answers": [
+                {
+                  "id": 1,
+                  "color": "#f8f4eb",
+                  "text": "Ask your GP about CBT Cognitive behavioural therapy\n\nThis helps and you can access it online too"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "text": "I can’t talk to my friends or family but I don’t want to see a therapist",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Online forums and support groups are a great way of finding support"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "text": "I need to see people face to face who might have experienced what I have",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "A good therapist might help, but there are many organisations and charities out there who can help you move forward"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "text": "I am getting physical symptoms, panics, shaking, sleeplessness, dry mouth",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "There are therapies and medications that can help\n\nYour GP is the best person to advise"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 205,
+          "type": "reframing",
+          "title": "If you recognise any of these,\nflip the card to see what you can do..",
+          "question": [
+            {
+              "id": 5,
+              "text": "I am just finding it hard to move on from the relationship, even though I am glad I am out of it.",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Maybe try a new hobby, course, or walk in nature every-day\n\nHealthy distractions on a bad day do help"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "text": "I feel so wound up all the time",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Have you thought of Mindfulness, Meditation, Yoga, Tai Chi or Prayer? These are ways of reconnecting"
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "text": "I just cry out of the blue, I have no energy and can’t feel motivated to do anything.",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Feeling sadness and grieving is a natural part of healing, give yourself time and you can always talk to a professional"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 206,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "If you need support, having that first conversation is the most difficult bit, pick three of the following people who you could think of approaching.",
+              "maxNumberOfSelections": 11,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "A family member"
+                },
+                {
+                  "id": 2,
+                  "text": "A friend"
+                },
+                {
+                  "id": 3,
+                  "text": "Course leader"
+                },
+                {
+                  "id": 4,
+                  "text": "My GP"
+                },
+                {
+                  "id": 5,
+                  "text": "My Lawyer"
+                },
+                {
+                  "id": 6,
+                  "text": "A counsellor"
+                },
+                {
+                  "id": 7,
+                  "text": "Someone on an online forum"
+                },
+                {
+                  "id": 8,
+                  "text": "A Priest, Rabbi, Iman, Guru or other"
+                },
+                {
+                  "id": 9,
+                  "text": "My therapist"
+                },
+                {
+                  "id": 10,
+                  "text": "A friend on Facebook or social media site."
+                },
+                {
+                  "id": 11,
+                  "text": "Telephone helpline volunteer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 207,
+          "type": "multi_choice_with_sub",
+          "question": [
+            {
+              "id": 1,
+              "title": "How are you doing?",
+              "text": "There is a break coming up soon, but if you could do with a break now, please take off the headset and seek support.",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I'm good"
+                },
+                {
+                  "id": 2,
+                  "text": "I'm OK"
+                },
+                {
+                  "id": 3,
+                  "text": "I could do with a break"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 208,
+          "type": "video",
+          "video_url": "affinity_enGB_M02_staceyIntro_VR.mp4"
+        },
+        {
+          "id": 209,
+          "type": "video",
+          "video_url": "affinity_enGB_M02_staceyMonologue_VR.mp4",
+          "showTriggerWarning": false
+        },
+        {
+          "id": 210,
+          "type": "video_choice",
+          "video_url": "",
+          "question": [
+            {
+              "id": 1,
+              "title": "Ask Doctor Clifford",
+              "text": "We have asked Dr Clifford, an expert on coercive control, a series of 5 questions. Please click on any of them to see her answer",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Is there a pattern to Coercive control?",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_101950_VR.mp4"
+                },
+                {
+                  "id": 2,
+                  "text": "Is psychological violence as bad as physical violence?",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_110007_VR.mp4"
+                },
+                {
+                  "id": 3,
+                  "text": "Why can abusers seem to overstep our boundaries at times?",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_104508_PT_1_VR.mp4"
+                },
+                {
+                  "id": 4,
+                  "text": "Why do we stay?",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_104939_VR.mp4"
+                },
+                {
+                  "id": 5,
+                  "text": "How does coercive control affect us?",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_120847_PT_1_VR.mp4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 211,
+          "type": "video",
+          "video_url": "affinity_enGB_M02_BeachMeditation_VR.mp4"
+        },
+        {
+          "id": 212,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Please take off your headset for a short break and complete the paper exercise that will be given to you."
+            }
+          ]
+        },
+        {
+          "id": 213,
+          "type": "video",
+          "video_url": "affinity_enGB_M02_inspirationIntro_VR.mp4"
+        },
+        {
+          "id": 214,
+          "type": "video",
+          "video_url": "affinity_enGB_M02_survivor_VR.mp4"
+        },
+        {
+          "id": 215,
+          "type": "video",
+          "video_url": "affinity_enGB_M02_coffeeRachel_VR.mp4"
+        },
+        {
+          "id": 216,
+          "type": "info_i",
+          "hasAcceptButton": false,
+          "question": [
+            {
+              "id": 1,
+              "title": "Instructions",
+              "text": "On the next screen, click and drag the bricks to fill in the empty spaces and build your own yellow brick road"
+            }
+          ]
+        },
+        {
+          "id": 217,
+          "type": "yellowBrickRoad",
+          "question": [
+            {
+              "id": 1
+            }
+          ]
+        },
+        {
+          "id": 218,
+          "type": "learningCommitmentsYBR",
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "These are some prompts to help you remember and activate these ideas, please highlight the ones that are useful to you",
+              "maxNumberOfSelections": 4,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I will find out info about three new hobbies this week"
+                },
+                {
+                  "id": 2,
+                  "text": "I can try out three “feel- good activities” this week, ie walking, coffee with a friend or listening to my favourite music"
+                },
+                {
+                  "id": 3,
+                  "text": "I can ask a friend to do one of these activities with me this week"
+                },
+                {
+                  "id": 4,
+                  "text": "I can challenge myself to do something new and out of my comfort zone this week!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 219,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Now the module is nearly over, how are you feeling?",
+              "maxNumberOfSelections": 4,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I’m good"
+                },
+                {
+                  "id": 2,
+                  "text": "I’m OK"
+                },
+                {
+                  "id": 3,
+                  "text": "I need a break"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 220,
+          "type": "video",
+          "video_url": "affinity_enGB_M02_treatTimeDrumming_VR.mp4"
+        },
+        {
+          "id": 221,
+          "type": "video",
+          "video_url": "affinity_enGB_M02_outro_VR.mp4"
+        },
+        {
+          "id": 222,
+          "type": "title",
+          "hasFinishButton": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "Congratulations",
+              "text": "You have completed module two\nPlease remove your headset and ask your facilitator for further instructions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "module_title": "module3",
+      "language": "enGB",
+      "playlist": [
+        {
+          "id": 301,
+          "type": "video",
+          "video_url": "affinity_enGB_M03_intro_VR.mp4"
+        },
+        {
+          "id": 302,
+          "type": "video",
+          "video_url": "affinity_enGB_M03_buildingSelfAgency_VR.mp4"
+        },
+        {
+          "id": 303,
+          "type": "video",
+          "video_url": "affinity_enGB_M03_reframingIntro_VR.mp4"
+        },
+        {
+          "id": 304,
+          "type": "reframingWithFrames",
+          "question": [
+            {
+              "id": 1,
+              "text": "I can’t believe I ever got into that relationship- I was so naïve",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I was genuine, he/she was not, abusers are clever at hooking people"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "text": "Nothing I do ever turns out well",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I have had challenges but there are lots of things I am proud of in my life"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "text": "All men are abusive, there are no good ones out there",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I have been unlucky, I know there are good men out there."
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "text": "I don’t feel I can ever be in a relationship again",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I may not be ready yet, when healed, I could have a new relationship"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 305,
+          "type": "reframingWithFrames",
+          "question": [
+            {
+              "id": 2,
+              "text": "Nobody really cares about me",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I know there are plenty of people who care about me, I just need to reach out to them."
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "text": "Bad things always seem to happen to me",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I know plenty of people who are about me, I could reach out to them"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "text": "I don’t deserve to be happy",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "There is no actual reason why I should not be happy"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "text": "I don’t like anything about myself",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "There are aspects of myself that I do like."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 306,
+          "type": "reframingWithFrames",
+          "question": [
+            {
+              "id": 1,
+              "text": "My life is always a mess",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I have had good times in my life and want more of them"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "text": "Other people’s lives are so much better than mine",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Other people have their problems too. Don’t believe everything you see on social media!"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "text": "There is no use trying anything new- it won’t work",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I won’t know until I have tried!"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "text": "I have so much baggage",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Everyone has baggage- it’s called life!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 307,
+          "type": "multi_choice_with_sub",
+          "question": [
+            {
+              "id": 1,
+              "title": "How are you feeling?",
+              "text": "There is a break coming up soon, but if you could do with a break now, please take off the headset and seek support.",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I'm good"
+                },
+                {
+                  "id": 2,
+                  "text": "I'm OK"
+                },
+                {
+                  "id": 3,
+                  "text": "I could do with a break"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 308,
+          "type": "video",
+          "video_url": "affinity_enGB_M03_meditationTree_VR.mp4"
+        },
+        {
+          "id": 309,
+          "type": "video",
+          "video_url": "affinity_enGB_M03_billieIntro_VR.mp4"
+        },
+        {
+          "id": 310,
+          "type": "video",
+          "video_url": "affinity_enGB_M03_billie_VR.mp4",
+          "showTriggerWarning": false
+        },
+        {
+          "id": 311,
+          "type": "video_choice",
+          "video_url": "",
+          "question": [
+            {
+              "id": 1,
+              "title": "Ask Doctor Clifford",
+              "text": "We have asked Dr Clifford, an expert on coercive control, a series of four questions. Please click on any of them:",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "What effect does domestic abuse have on adult family members and friends?",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_111658_PT_1_VR.mp4"
+                },
+                {
+                  "id": 2,
+                  "text": "Why recognising abusive behaviours can make perpetrators feel threatened",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_120601_VR.mp4"
+                },
+                {
+                  "id": 3,
+                  "text": "Humiliation and verbal aggression",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_112851_PT_4_VR.mp4"
+                },
+                {
+                  "id": 4,
+                  "text": "The power of a look",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_112851_PT_1_VR.mp4"
+                },
+                {
+                  "id": 5,
+                  "text": "What is stonewalling",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_112851_PT_3_VR.mp4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 312,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Please take off your headset for a short break and complete the paper exercise that will be given to you"
+            }
+          ]
+        },
+        {
+          "id": 313,
+          "type": "video",
+          "video_url": "affinity_enGB_M03_coreStrengthsIntro_VR.mp4"
+        },
+        {
+          "id": 314,
+          "type": "video",
+          "video_url": "affinity_enGB_M03_survivorStory_VR.mp4"
+        },
+        {
+          "id": 315,
+          "type": "video",
+          "video_url": "affinity_enGB_M03_coachRachel_VR.mp4"
+        },
+        {
+          "id": 316,
+          "type": "towerOfStrength",
+          "question": [
+            {
+              "id": 1
+            }
+          ]
+        },
+        {
+          "id": 317,
+          "type": "learningCommitmentsTower",
+          "question": [
+            {
+              "id": 1,
+              "title": "Pick your top 3",
+              "text": "How are you going to grow your key strengths this week? Please highlight the ones that are useful to you",
+              "maxNumberOfSelections": 4,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Bring one of them to a situation in your life this week"
+                },
+                {
+                  "id": 2,
+                  "text": "Read  about or listen to someone that has these strengths"
+                },
+                {
+                  "id": 3,
+                  "text": "Ask a friend or family member, to remind you of your strengths"
+                },
+                {
+                  "id": 4,
+                  "text": "Write a list of your strengths on your phone and look at them a few times a day"
+                },
+                {
+                  "id": 5,
+                  "text": "When you wake up make a commitment to trying to be this person each day"
+                },
+                {
+                  "id": 6,
+                  "text": "At bedtime think of the strengths you showed today"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 318,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1,
+              "title": "Now the module is over, how are you feeling?",
+              "text": "Now the module is over, how are you feeling?",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I’m good"
+                },
+                {
+                  "id": 2,
+                  "text": "I’m OK"
+                },
+                {
+                  "id": 3,
+                  "text": "I need a break"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 319,
+          "type": "video",
+          "video_url": "affinity_enGB_M03_performancePiece_VR.mp4"
+        },
+        {
+          "id": 320,
+          "type": "video",
+          "video_url": "affinity_enGB_M03_outro_VR.mp4"
+        },
+        {
+          "id": 321,
+          "type": "title",
+          "hasFinishButton": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "Congratulations",
+              "text": "You have completed module three\nPlease remove your headset and ask your facilitator for further instructions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "module_title": "module4",
+      "language": "enGB",
+      "playlist": [
+        {
+          "id": 401,
+          "type": "video",
+          "video_url": "affinity_enGB_M04_intro_VR.mp4"
+        },
+        {
+          "id": 402,
+          "type": "video",
+          "video_url": "affinity_enGB_M04_fearlessOwnership_VR.mp4"
+        },
+        {
+          "id": 402,
+          "type": "video",
+          "video_url": "affinity_enGB_M04_greenFlagIntro_VR.mp4"
+        },
+        {
+          "id": 403,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "In the next video please press the trigger when you think you recognise a healthy behaviour"
+            }
+          ]
+        },
+        {
+          "id": 404,
+          "type": "video_section_interactive",
+          "video_url": "affinity_enGB_M04_greenFlag_VR.mp4",
+          "videoSections": [
+            {
+              "id": "1",
+              "flagColour": "green",
+              "startFrame": 750,
+              "endFrame": 810
+            },
+            {
+              "id": "2",
+              "startFrame": 840,
+              "endFrame": 900
+            },
+            {
+              "id": "3",
+              "startFrame": 1110,
+              "endFrame": 1230
+            },
+            {
+              "id": "5",
+              "startFrame": 1290,
+              "endFrame": 1500
+            },
+            {
+              "id": "6",
+              "startFrame": 2340,
+              "endFrame": 2460
+            },
+            {
+              "id": "7",
+              "startFrame": 2730,
+              "endFrame": 2790
+            },
+            {
+              "id": "8",
+              "startFrame": 2970,
+              "endFrame": 3030
+            },
+            {
+              "id": "9",
+              "startFrame": 3420,
+              "endFrame": 3510
+            },
+            {
+              "id": "10",
+              "startFrame": 3750,
+              "endFrame": 3810
+            },
+            {
+              "id": "11",
+              "startFrame": 3930,
+              "endFrame": 4140
+            },
+            {
+              "id": "12",
+              "startFrame": 4350,
+              "endFrame": 4410
+            },
+            {
+              "id": "13",
+              "startFrame": 4500,
+              "endFrame": 4590
+            }
+          ]
+        },
+        {
+          "id": 405,
+          "type": "video",
+          "video_url": "insight_enGB_Repeat_Red_Green_Flag_Setup_VR.mp4"
+        },
+        {
+          "id": 406,
+          "type": "video_section_display",
+          "video_url": "affinity_enGB_M04_greenFlag_VR.mp4",
+          "videoSections": [
+            {
+              "id": "1",
+              "flagColour": "green",
+              "startFrame": 750,
+              "endFrame": 810
+            },
+            {
+              "id": "2",
+              "startFrame": 840,
+              "endFrame": 900
+            },
+            {
+              "id": "3",
+              "startFrame": 1110,
+              "endFrame": 1230
+            },
+            {
+              "id": "5",
+              "startFrame": 1290,
+              "endFrame": 1500
+            },
+            {
+              "id": "6",
+              "startFrame": 2340,
+              "endFrame": 2460
+            },
+            {
+              "id": "7",
+              "startFrame": 2730,
+              "endFrame": 2790
+            },
+            {
+              "id": "8",
+              "startFrame": 2970,
+              "endFrame": 3030
+            },
+            {
+              "id": "9",
+              "startFrame": 3420,
+              "endFrame": 3510
+            },
+            {
+              "id": "10",
+              "startFrame": 3750,
+              "endFrame": 3810
+            },
+            {
+              "id": "11",
+              "startFrame": 3930,
+              "endFrame": 4140
+            },
+            {
+              "id": "12",
+              "startFrame": 4350,
+              "endFrame": 4410
+            },
+            {
+              "id": "13",
+              "startFrame": 4500,
+              "endFrame": 4590
+            }
+          ]
+        },
+        {
+          "id": 407,
+          "type": "video",
+          "video_url": "affinity_enGB_M04_meditationWaterfall_VR.mp4"
+        },
+        {
+          "id": 408,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1,
+              "title": "How are you feeling?",
+              "text": "There is a break coming up soon, but if you could do with a break now, please take off the headset and seek support.",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "I'm good"
+                },
+                {
+                  "id": 2,
+                  "text": "I'm OK"
+                },
+                {
+                  "id": 3,
+                  "text": "I could do with a break"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 409,
+          "type": "video",
+          "video_url": "affinity_enGB_M04_niaIntro_VR.mp4"
+        },
+        {
+          "id": 410,
+          "type": "video",
+          "video_url": "affinity_enGB_M04_nia_VR.mp4"
+        },
+        {
+          "id": 411,
+          "type": "video_choice",
+          "video_url": "",
+          "question": [
+            {
+              "id": 1,
+              "title": "Ask Doctor Clifford",
+              "text": "We have asked Dr Clifford, an expert on coercive control, a series of 5 questions.\nPlease click on any of them:",
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "What can be the trigger for leaving?",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_105729_VR.mp4"
+                },
+                {
+                  "id": 2,
+                  "text": "Does the system believe victims?",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_112204_PT_2_VR.mp4"
+                },
+                {
+                  "id": 3,
+                  "text": "Anxiety and Post Traumatic stress disorder",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_110716_VR.mp4"
+                },
+                {
+                  "id": 4,
+                  "text": "What is Complex Post Traumatic Stress Disorder (CPSD)?",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_111200_VR.mp4"
+                },
+                {
+                  "id": 5,
+                  "text": "The desire to go back..why?",
+                  "video_url": "Insight_Interview_enGB_Dr_Clifford_103627_VR.mp4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 412,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Please take off your headset for a short break and complete the paper exercise that will be given to you"
+            }
+          ]
+        },
+        {
+          "id": 413,
+          "type": "video",
+          "video_url": "affinity_enGB_M04_movingForwardIntro_VR.mp4"
+        },
+        {
+          "id": 414,
+          "type": "video",
+          "video_url": "affinity_enGB_M04_survivorStory_VR.mp4"
+        },
+        {
+          "id": 415,
+          "type": "video",
+          "video_url": "affinity_enGB_M04_coachRachel_VR.mp4"
+        },
+        {
+          "id": 416,
+          "type": "info_i",
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "On the next screen you will now see a gift box and a bin, please move as much into each as you like"
+            }
+          ]
+        },
+        {
+          "id": 417,
+          "type": "giftBox",
+          "question": [
+            {
+              "id": 1
+            }
+          ]
+        },
+        {
+          "id": 418,
+          "type": "learningCommitmentsBinOrKeep",
+          "question": [
+            {
+              "id": 1,
+              "title": "From your gift box and shredder, chose 3 from each.",
+              "text": "How are we going to make sure we stick to these commitments? Please highlight the ones that are useful to you",
+              "maxNumberOfSelections": 4,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Write them down and stick them on your bedroom mirror"
+                },
+                {
+                  "id": 2,
+                  "text": "Make up mantras and say them before you get out of bed each morning"
+                },
+                {
+                  "id": 3,
+                  "text": "Practice self-agency and know you have the power to have those difficult conversations"
+                },
+                {
+                  "id": 4,
+                  "text": "Remember resilience"
+                },
+                {
+                  "id": 5,
+                  "text": "Plan, set intentions and do them!"
+                },
+                {
+                  "id": 6,
+                  "text": "Practice gratitude for what you have that’s good"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 419,
+          "type": "video",
+          "video_url": "affinity_enGB_M04_treatTime_VR.mp4"
+        },
+        {
+          "id": 420,
+          "type": "video",
+          "video_url": "affinity_enGB_M04_outro_VR.mp4"
+        },
+        {
+          "id": 421,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1,
+              "title": "Mega feelings Wall",
+              "text": "Please select four words that currently sum up your situation",
+              "maxNumberOfSelections": 6,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Anxious"
+                },
+                {
+                  "id": 2,
+                  "text": "Calm"
+                },
+                {
+                  "id": 3,
+                  "text": "Stressed"
+                },
+                {
+                  "id": 4,
+                  "text": "Relaxed"
+                },
+                {
+                  "id": 5,
+                  "text": "Depressed"
+                },
+                {
+                  "id": 6,
+                  "text": "Happy"
+                },
+                {
+                  "id": 7,
+                  "text": "Pessimistic"
+                },
+                {
+                  "id": 8,
+                  "text": "Hopeful"
+                },
+                {
+                  "id": 9,
+                  "text": "Powerless"
+                },
+                {
+                  "id": 10,
+                  "text": "Powerful"
+                },
+                {
+                  "id": 11,
+                  "text": "Weak"
+                },
+                {
+                  "id": 12,
+                  "text": "Strong"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 422,
+          "type": "multi_choice",
+          "question": [
+            {
+              "id": 1,
+              "text": "Course feedback\n\nPlease click all that apply",
+              "title": "Please click all that apply",
+              "maxNumberOfSelections": 5,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "This course did make a difference to me"
+                },
+                {
+                  "id": 2,
+                  "text": "I am a less anxious now about what was shown in the course"
+                },
+                {
+                  "id": 3,
+                  "text": "I’m glad I have completed the course"
+                },
+                {
+                  "id": 4,
+                  "text": "I think the course may make me be able to cope with my situation better"
+                },
+                {
+                  "id": 5,
+                  "text": "I was really dreading this experience and I was proved right!"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 423,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 1/12\n\nI’m generally OK most of the time",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 424,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 2/12\n\nI don’t understand why I got into an abusive relationship",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 425,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 3/12\n\nI feel confident about asking for help from family and friends",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 426,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 4/12\n\nI’m frightened of getting into another abusive relationship",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 427,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 5/12\n\nI feel really stuck with how to get on with my life",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 428,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 6/12\n\nI feel I don’t know who I am anymore.",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 429,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 7/12\n\nI feel I can have choices about how to live my life",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 430,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 8/12\n\nI know what to do when I am down to help me cope better",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 431,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 9/12\n\nI can see a better future",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 432,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 10/12\n\nI know what a healthy relationship looks like",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 433,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 11/12\n\nI am confident that I can spot the signs of an unhealthy relationship in the future",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 434,
+          "type": "likert",
+          "isTextLikert": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "",
+              "text": "Question 12/12\n\nI know I have worth",
+              "maxNumberOfSelections": 1,
+              "answers": [
+                {
+                  "id": 1,
+                  "text": "Strongly disagree"
+                },
+                {
+                  "id": 2,
+                  "text": "Slightly disagree"
+                },
+                {
+                  "id": 3,
+                  "text": "Neutral"
+                },
+                {
+                  "id": 4,
+                  "text": "Slightly agree"
+                },
+                {
+                  "id": 5,
+                  "text": "Strongly agree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 435,
+          "type": "title",
+          "hasFinishButton": true,
+          "question": [
+            {
+              "id": 1,
+              "title": "Congratulations",
+              "text": "You have completed the course \n\n“No matter how hard the world pushes against me, within me, there’s something stronger – something better, pushing right back.” - A Camus\n\nPlease remove your headset and wait for instructions"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "module_title": "Red Flags",
+      "language": "enGB",
+      "playlist": [
+        {
+          "id": 6,
+          "type": "video_section_interactive",
+          "video_url": "affinity_enGB_M01_redFlag_VR.mp4",
+          "videoSections": [
+            {
+              "id": "1",
+              "flagColour": "red",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 690,
+              "endFrame": 750
+            },
+            {
+              "id": "2",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 1170,
+              "endFrame": 1230
+            },
+            {
+              "id": "3",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 1620,
+              "endFrame": 1680
+            },
+            {
+              "id": "4",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 1830,
+              "endFrame": 1890
+            },
+            {
+              "id": "5",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 2070,
+              "endFrame": 2130
+            },
+            {
+              "id": "6",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 2220,
+              "endFrame": 2490
+            },
+            {
+              "id": "7",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 2910,
+              "endFrame": 3030
+            },
+            {
+              "id": "8",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 3480,
+              "endFrame": 3600
+            },
+            {
+              "id": "9",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 3930,
+              "endFrame": 4200
+            },
+            {
+              "id": "10",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 4410,
+              "endFrame": 4530
+            },
+            {
+              "id": "11",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 4650,
+              "endFrame": 4830
+            },
+            {
+              "id": "12",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 5220,
+              "endFrame": 4830
+            },
+            {
+              "id": "13",
+              "startTimecode": "",
+              "endTimecode": "",
+              "description": "",
+              "startFrame": 5340,
+              "endFrame": 5400
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "module_title": "green Flags",
+      "language": "enGB",
+      "playlist": [
+        {
+          "id": 6,
+          "type": "video_section_display",
+          "video_url": "affinity_enGB_M04_greenFlag_VR.mp4",
+          "videoSections": [
+            {
+              "id": "1",
+              "flagColour": "green",
+              "startFrame": 750,
+              "endFrame": 810
+            },
+            {
+              "id": "2",
+              "startFrame": 840,
+              "endFrame": 900
+            },
+            {
+              "id": "3",
+              "startFrame": 1110,
+              "endFrame": 1230
+            },
+            {
+              "id": "5",
+              "startFrame": 1290,
+              "endFrame": 1500
+            },
+            {
+              "id": "6",
+              "startFrame": 2340,
+              "endFrame": 2460
+            },
+            {
+              "id": "7",
+              "startFrame": 2730,
+              "endFrame": 2790
+            },
+            {
+              "id": "8",
+              "startFrame": 2970,
+              "endFrame": 3030
+            },
+            {
+              "id": "9",
+              "startFrame": 3420,
+              "endFrame": 3510
+            },
+            {
+              "id": "10",
+              "startFrame": 3750,
+              "endFrame": 3810
+            },
+            {
+              "id": "11",
+              "startFrame": 3930,
+              "endFrame": 4140
+            },
+            {
+              "id": "12",
+              "startFrame": 4350,
+              "endFrame": 4410
+            },
+            {
+              "id": "13",
+              "startFrame": 4500,
+              "endFrame": 4590
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
